@@ -1,4 +1,4 @@
-(ns speclj-unicornleap.core-spec
+(ns speclj.report.unicornleap
   (:require [speclj.core :refer :all]
             [speclj-unicornleap.core :refer :all]))
 
