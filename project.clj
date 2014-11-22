@@ -1,4 +1,4 @@
-(defproject speclj-unicornleap "0.1.0-SNAPSHOT"
+(defproject speclj-unicornleap "0.1.0"
   :description "speclj plugin for unicornleap"
   :url "https://github.com/christophgockel/speclj-unicornleap"
   :dependencies [[org.clojure/clojure "1.6.0"]]
